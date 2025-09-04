@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-# 👍 Halo, I'm Juan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# 🙌 Hello, I'm Juan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 > My name is Juan Alexanov, From Surabaya. currently in Jakarta, Indonesia, since elementary school i was interested in coding. My experience is mostly when i became a freelance, handle most web projects (full-stack) with 2 years professional experience and currently work as Front-End Developer in Aptaworks with 1 years professional experience.
 Right now i try development game from lua for roblox and fivem.
 
