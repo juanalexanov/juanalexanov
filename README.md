@@ -18,14 +18,14 @@ Right now i try development game from lua for roblox and fivem.
     </a>
 </p>
 
-<br>
+
 
 # 🌐 Languages
 - 🇮🇩 **Indonesian** — Native  
 - en **English** — Fluent  
 - 🇨🇳 **Mandarin** — Intermediate
 
-<br>
+
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Tools and use
 
